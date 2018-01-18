@@ -1,0 +1,30 @@
+{
+  "name": "AniSyncDesktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkCoockie/AniSyncDesktop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkCoockie/AniSyncDesktop/issues"
+  },
+  "homepage": "https://github.com/DarkCoockie/AniSyncDesktop#readme",
+  "devDependencies": {
+    "electron": "^1.7.10"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "material-components-web": "^0.28.0",
+    "popper.js": "^1.12.9",
+    "tooltip.js": "^1.1.7"
+  }
+}
